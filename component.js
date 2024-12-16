@@ -1,4 +1,4 @@
-export default {
+module.exports = {
   style: "default",
   rsc: true,
   tailwind: {
